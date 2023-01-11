@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "45af114e-affe-4dff-86a0-0cba1e13edcf": {
+      "ProjectGuid": "45af114e-affe-4dff-86a0-0cba1e13edcf",
+      "DisplayName": "netconfml_helloworld",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
